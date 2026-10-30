@@ -45,6 +45,7 @@ components/
   shared/                 # Eyebrow, SectionHeading, Reveal, SkylineMark, Lightbox
 content/
   site.ts                 # Company info, phone, WhatsApp, address, socials
+  images.ts               # ALL image URLs (stock for now → real photos later)
   services.ts             # Service[]
   projects.ts             # Project[]
   team.ts, machinery.ts, faq.ts, testimonials.ts, clients.ts

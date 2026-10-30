@@ -39,7 +39,7 @@ const projects = [
   { t: "Residential Tower", c: "Construction · Gomti Nagar", i: img("photo-1545324418-cc1a3fa10c00", 1400), big: true },
   { t: "PMGSY Road", c: "Road construction", i: img("photo-1621544402532-78c290378588", 900) },
   { t: "Commercial Complex", c: "Piling works", i: img("photo-1503387762-592deb58ef4e", 900) },
-  { t: "STP Project", c: "Civil works", i: img("photo-1590644365607-1c5a519a7a37", 900) },
+  { t: "STP Project", c: "Civil works", i: img("photo-1581094794329-c8112a89af12", 900) },
   { t: "Terrace Garden", c: "Waterproofing", i: img("photo-1600585154340-be6161a56a0c", 900) },
 ];
 
